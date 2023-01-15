@@ -13,23 +13,21 @@ nama anggota: Rahmat Tahmmid A dan Hariansyah<br>
 <a href="https://www.linkedin.com/in/rahmat-tahmid-65a85a194" target="blank"><img src="https://img.shields.io/badge/Rahmat%20Tahmid-blue?style=flat&logo=linkedin" /></a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about Us...  
 
-# Dataset Daun Lidah Buaya Dan Nangka
+# image classification 
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Collect Dataset Herbal Leaves
-
 
 <!-- ![overview_dataset](https://user-images.githubusercontent.com/71799859/200147750-0b15e372-bebf-478f-b89a-b1bb12acea20.png) -->
 <!-- ![overview_dataset](https://github.com/pelangi1/Dataset-Lidah-Buaya-dan-Nangka_097_116/blob/master/image/overview_dataset.jpg?raw=true) -->
-![overview_dataset](https://www.cs.toronto.edu/~kriz/cifar-10-sample/airplane1.png)
+![overview_dataset](https://www.cs.toronto.edu/~kriz/cifar-10-sample/airplane1.png)![overview_dataset](https://www.cs.toronto.edu/~kriz/cifar-10-sample/automobile1.png)
+![overview_dataset](https://www.cs.toronto.edu/~kriz/cifar-10-sample/automobile1.png)
 
-Dataset merupakan kumpulan dari suatu data yang menggambarkan suatu topik tertentu. Dataset terdiri dari 
+
 ## Description
 
-- Daun Pepaya daun yang berasal dari tumbuhan pepaya (Carica papaya). Daun pepaya muda kerap diolah menjadi sayuran di beberapa daerah di Indonesia. Disamping dapat diolah menjadi makanan, daun pepaya dapat pula dijadikan obat untuk beberapa jenis penyakit. Helaian daun pepaya berbentuk menyerupai tangan manusia.
-- Daun seledri adalah sayuran dalam keluarga tanaman jenis apiaceae. Daun seledri merupakan sayuran daun dan tumbuhan obat yang biasa digunakan sebagai bumbu masakan. Beberapa negara termasuk Jepang, Cina dan Korea mempergunakan bagian tangkai daun sebagai bahan makanan. Di Indonesia tumbuhan ini diperkenalkan oleh penjajah Belanda dan digunakan daunnya untuk menyedapkan sup atau sebagai lalap. 
+- CIFAR-10 adalah salah satu dataset yang populer digunakan dalam tugas klasifikasi citra. Dataset ini terdiri dari 60.000 gambar yang dikelompokkan menjadi 10 kelas, dengan 6000 gambar per kelas. Kelas-kelas ini meliputi kendaraan seperti mobil dan truk, burung, kucing, hewan, dan lain-lain. Ukuran gambar dalam dataset ini adalah 32x32 piksel dengan 3 channel warna (RGB).
 
 
 ## Authors
